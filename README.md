@@ -1,6 +1,6 @@
 # Temperature-Prediction-Using-Various-Algorithms
 In this project we have used various kinds of Machine Learning Algorithms or Model to predict the Weather Forecast.
-This dataset consists the recorded temperature from the year 2006 - year 2016.
+This dataset consists of recorded temperatures and other various factors which effects the temperature from the year 2006 - year 2016.
 In this, we have used 4 Machine Learning Models for prediction of the temperature over a period of time.
 We got various error values while predicting the temperature.
 
